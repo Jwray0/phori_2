@@ -1,0 +1,6 @@
+Reconfigured the Phob V2 to fit into the formfactor of the Hori Gamecube Controller.
+Moved C-Stick ADC to mainboard
+added throughholes for B3F switches
+Curved traces
+added Tac  solder pads for start
+added mouseclick through holes 
