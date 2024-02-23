@@ -5,3 +5,5 @@ The PhobGCC v2.0 board is licensed under CERN Open Hardware Licence Version 2 - 
 This means that any changes made to the board should be made public and CHANGES.txt be updated to reflect said changes.
 
 phori v2 is developed for the hori gamecube controller. 
+
+https://github.com/PhobGCC/PhobGCCv2-HW
