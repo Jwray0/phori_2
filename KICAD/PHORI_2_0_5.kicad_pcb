@@ -2705,7 +2705,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f0dbe70-2c80-4b2f-a4c3-1f2a726ad5b3)
     )
-    (fp_text user "${REFERENCE}" (at 0 0 90) (layer "F.Fab")
+    (fp_text user "U2" (at 0 0 90) (layer "F.Fab")
         (effects (font (size 0.98 0.98) (thickness 0.15)))
       (tstamp 526546c1-95a1-49c2-9519-1e69d8f9e10a)
     )
